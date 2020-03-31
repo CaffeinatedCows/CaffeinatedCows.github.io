@@ -1,2 +1,1 @@
-# CaffeinatedCows.github.io
-Alan "Zorn" Chen's website
+# Currently using Midnight theme 
