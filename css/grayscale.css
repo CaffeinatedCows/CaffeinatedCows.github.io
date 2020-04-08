@@ -249,7 +249,7 @@
   background: rgba(255, 255, 255, 0.1);
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: #ffffff4d;
 }
 
 .contact-section .social a:hover {
@@ -263,6 +263,7 @@
 body {
   font-family: 'Nunito';
   letter-spacing: 0.0625em;
+  background-color: coral;
 }
 
 a {
