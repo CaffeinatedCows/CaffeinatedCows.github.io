@@ -17,6 +17,7 @@
     <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="../css/grayscale.min.css" rel="stylesheet">
@@ -30,17 +31,12 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
         <div class="container">
             <a class="navbar-brand js-scroll-trigger" href="../index.html">Home</a>
-            <ul class="navbar-nav ml-auto">
-                <!-- <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#projects">Projects/Interests</a>
-                    </li> -->
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#contact"> <i class="fas fa-search"></i> Search</a>
-                </li>
-            </ul>
+
+            <form autocomplete="off" action="/action_page.php">
+                <div class="autocomplete" style="width:20rem;">
+                    <input id="myInput" type="text" name="search" placeholder="&#xF002; Search">
+                </div>
+            </form>
         </div>
     </nav>
 
@@ -60,11 +56,6 @@
             <p id="quote">Piglet: “How do you spell ‘love’?”
                 <br>Pooh: “You don’t spell it…you feel it.”</br>
             </p>
-            <footer>Winnie the Pooh</footer>
-        </blockquote>
-
-        <blockquote>
-            <p>How lucky I am to have something that makes saying goodbye so hard.</p>
             <footer>Winnie the Pooh</footer>
         </blockquote>
 
@@ -97,14 +88,15 @@
 
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="js/grayscale.min.js"></script>
+    <script src="../js/grayscale.min.js"></script>
+    <script src="../js/quotes.js"></script>
 </body>
 
 </html>

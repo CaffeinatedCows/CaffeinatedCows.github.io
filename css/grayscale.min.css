@@ -273,7 +273,7 @@ i {
 
 body {
     font-family: Nunito;
-    letter-spacing: .0625em;
+    /* letter-spacing: .0625em; */
     background-color: #161616
 }
 
