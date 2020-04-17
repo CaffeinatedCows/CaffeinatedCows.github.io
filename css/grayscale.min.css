@@ -163,12 +163,20 @@ i {
 }
 
 .about-section {
-    padding-top: 10rem;
+    padding-top: 5rem;
     background: linear-gradient(to bottom, #161616 0, rgba(22, 22, 22, .9) 75%, rgba(22, 22, 22, .8) 100%)
 }
 
 .about-section p {
-    margin-bottom: 5rem
+    margin-bottom: 2rem
+}
+
+.about-section h4{
+    margin-bottom: 2rem
+}
+
+.about-section .squidIMG {
+    margin-bottom: 7.5rem;
 }
 
 .quote-section {
@@ -286,6 +294,17 @@ a:hover {
     text-decoration: none;
     color: #3c6360
 }
+
+.title-text {
+    color: #fff
+}
+
+.title-text:focus,
+.title-text:hover {
+    text-decoration: none;
+    color: #64a19d
+}
+
 
 .bg-black {
     background-color: #161616!important

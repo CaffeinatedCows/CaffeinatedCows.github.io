@@ -167,7 +167,11 @@ i {
 }
 
 .about-section p {
-    margin-bottom: 5rem;
+    margin-bottom: 1rem;
+}
+
+.squidIMG {
+    margin-bottom:10rem;
 }
 
 .quote-section {
