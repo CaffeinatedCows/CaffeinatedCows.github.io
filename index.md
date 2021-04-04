@@ -39,4 +39,4 @@
 - [ ] Find a partner for life
 - [ ] Travel the world
 
-[link](#alans-website)
+[Back to top](#a-graduating-data-science-major)
