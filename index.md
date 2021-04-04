@@ -1,5 +1,5 @@
-# Alan's Website
-### A graduating Data Science Major.
+
+## A graduating Data Science Major.
 ![image](img/headshot.PNG)
 [Github Repo](https://github.com/CaffeinatedCows)
 
@@ -19,7 +19,10 @@
 ### Recent Projects
 [Gene-wide Association Study](https://alandsc.github.io/GWAS/)
 
-## Who am I as a person
+
+
+
+# Who am I as a person
 [My Instagram](https://www.instagram.com/alan._.chen/)
 
 ### Recently watched movies
@@ -29,11 +32,11 @@
 
 ### My Life Goals 
 
-[x] Make great friends in college
-[x] Get into UCSD's Ultimate A team
-[ ] Graduate from UCSD
-[ ] Get hired as a programmer
-[ ] Find a partner for life
-[ ] Travel the world
+- [x] Make great friends in college
+- [x] Get into UCSD's Ultimate A team
+- [ ] Graduate from UCSD
+- [ ] Get hired as a programmer
+- [ ] Find a partner for life
+- [ ] Travel the world
 
 [link](#alans-website)
