@@ -1,2 +1,2 @@
 # Alan's Website
-![image](img/headshot.png)
+![image](img/headshot.PNG)
