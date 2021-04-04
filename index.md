@@ -17,9 +17,12 @@
 
 
 ## Who am I as a person
-**My Instagram**
-[title](https://www.instagram.com/alan._.chen/)
+[My Instagram](https://www.instagram.com/alan._.chen/)
 
+### Recently watched movies
+- The Prestige
+- Inception
+- The Truman Show
 
 ### My Life Goals 
 
